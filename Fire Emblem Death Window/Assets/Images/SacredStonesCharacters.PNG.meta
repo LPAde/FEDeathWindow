@@ -1,0 +1,1812 @@
+fileFormatVersion: 2
+guid: aa21d6360105bdf4f8c1d7ca14e9935e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6417994722779881153
+    second: SacredStonesCharacters_0
+  - first:
+      213: -7378355715354716649
+    second: SacredStonesCharacters_1
+  - first:
+      213: 6100352398799937431
+    second: SacredStonesCharacters_2
+  - first:
+      213: -4642273086602390800
+    second: SacredStonesCharacters_3
+  - first:
+      213: 5956991315144576844
+    second: SacredStonesCharacters_4
+  - first:
+      213: 8261795961239895661
+    second: SacredStonesCharacters_5
+  - first:
+      213: -870190912132517784
+    second: SacredStonesCharacters_6
+  - first:
+      213: -5528842480116639620
+    second: SacredStonesCharacters_7
+  - first:
+      213: 5365409326223062787
+    second: SacredStonesCharacters_8
+  - first:
+      213: 3850909684209493505
+    second: SacredStonesCharacters_9
+  - first:
+      213: 2840296338616728117
+    second: SacredStonesCharacters_10
+  - first:
+      213: 4959005978527114398
+    second: SacredStonesCharacters_11
+  - first:
+      213: 1820533382055738607
+    second: SacredStonesCharacters_12
+  - first:
+      213: -2876456694238789014
+    second: SacredStonesCharacters_13
+  - first:
+      213: -5559433189098070430
+    second: SacredStonesCharacters_14
+  - first:
+      213: -7664376660404946486
+    second: SacredStonesCharacters_15
+  - first:
+      213: -9009432117346864664
+    second: SacredStonesCharacters_16
+  - first:
+      213: -7667610506617546626
+    second: SacredStonesCharacters_17
+  - first:
+      213: 1725636485693326177
+    second: SacredStonesCharacters_18
+  - first:
+      213: -5655042432302719765
+    second: SacredStonesCharacters_19
+  - first:
+      213: 1114568906869122210
+    second: SacredStonesCharacters_20
+  - first:
+      213: -4760266868659405468
+    second: SacredStonesCharacters_21
+  - first:
+      213: -8560724003419778331
+    second: SacredStonesCharacters_22
+  - first:
+      213: -5871041149120986826
+    second: SacredStonesCharacters_23
+  - first:
+      213: -5849914041482922623
+    second: SacredStonesCharacters_24
+  - first:
+      213: -3866027171291548792
+    second: SacredStonesCharacters_25
+  - first:
+      213: 1025507827952632946
+    second: SacredStonesCharacters_26
+  - first:
+      213: -6867357702186741131
+    second: SacredStonesCharacters_27
+  - first:
+      213: 5273705006948157647
+    second: SacredStonesCharacters_28
+  - first:
+      213: -7233757404803277578
+    second: SacredStonesCharacters_29
+  - first:
+      213: -2771611256779964249
+    second: SacredStonesCharacters_30
+  - first:
+      213: -9191840954807612144
+    second: SacredStonesCharacters_31
+  - first:
+      213: -5513997626857707731
+    second: SacredStonesCharacters_32
+  - first:
+      213: -6359113103609008108
+    second: SacredStonesCharacters_33
+  - first:
+      213: -248303267160373887
+    second: SacredStonesCharacters_34
+  - first:
+      213: 3626878709490733767
+    second: SacredStonesCharacters_35
+  - first:
+      213: -6056424371908642407
+    second: SacredStonesCharacters_36
+  - first:
+      213: -2046840253310505083
+    second: SacredStonesCharacters_37
+  - first:
+      213: 2212768634136800394
+    second: SacredStonesCharacters_38
+  - first:
+      213: -7918723216733142584
+    second: SacredStonesCharacters_39
+  - first:
+      213: 3825608405574828805
+    second: SacredStonesCharacters_40
+  - first:
+      213: 7690069263501867524
+    second: SacredStonesCharacters_41
+  - first:
+      213: -560527820342466394
+    second: SacredStonesCharacters_42
+  - first:
+      213: 4251864693473111333
+    second: SacredStonesCharacters_43
+  - first:
+      213: -7423827739771123963
+    second: SacredStonesCharacters_44
+  - first:
+      213: 6579577961001862804
+    second: SacredStonesCharacters_45
+  - first:
+      213: -6315866210113324162
+    second: SacredStonesCharacters_46
+  - first:
+      213: 1376647918962747293
+    second: SacredStonesCharacters_47
+  - first:
+      213: -1359015675307527767
+    second: SacredStonesCharacters_48
+  - first:
+      213: -6681268123821512727
+    second: SacredStonesCharacters_49
+  - first:
+      213: -9179101230947563243
+    second: SacredStonesCharacters_50
+  - first:
+      213: 7203500078881562527
+    second: SacredStonesCharacters_51
+  - first:
+      213: 3012823409687109176
+    second: SacredStonesCharacters_52
+  - first:
+      213: 567975991346336471
+    second: SacredStonesCharacters_53
+  - first:
+      213: -8854831295756156263
+    second: SacredStonesCharacters_54
+  - first:
+      213: -1147228154341521695
+    second: SacredStonesCharacters_55
+  - first:
+      213: 4463109334983866859
+    second: SacredStonesCharacters_56
+  - first:
+      213: -4026515678221679082
+    second: SacredStonesCharacters_57
+  - first:
+      213: -4477697563372400936
+    second: SacredStonesCharacters_58
+  - first:
+      213: 8370125913954691056
+    second: SacredStonesCharacters_59
+  - first:
+      213: 8613559560069595881
+    second: SacredStonesCharacters_60
+  - first:
+      213: -4041484915379646550
+    second: SacredStonesCharacters_61
+  - first:
+      213: 8422877181344901976
+    second: SacredStonesCharacters_62
+  - first:
+      213: 6797733241327720688
+    second: SacredStonesCharacters_63
+  - first:
+      213: 5073698609413506162
+    second: SacredStonesCharacters_64
+  - first:
+      213: 8652368293223015631
+    second: SacredStonesCharacters_65
+  - first:
+      213: 3863881396900087455
+    second: SacredStonesCharacters_66
+  - first:
+      213: -5037617322906217121
+    second: SacredStonesCharacters_67
+  - first:
+      213: -6770335300492185108
+    second: SacredStonesCharacters_68
+  - first:
+      213: 1245606765026315734
+    second: SacredStonesCharacters_69
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SacredStonesCharacters_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 354
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31af5abdc3bee6a0800000000000000
+      internalID: -6417994722779881153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 354
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7161fcfa190da9990800000000000000
+      internalID: -7378355715354716649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_2
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 354
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f1c278f2ec8a450800000000000000
+      internalID: 6100352398799937431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 354
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f255ba3935539fb0800000000000000
+      internalID: -4642273086602390800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_4
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 354
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f87452a0c7ba250800000000000000
+      internalID: 5956991315144576844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_5
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 354
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ef57467abc7a270800000000000000
+      internalID: 8261795961239895661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_6
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 354
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8607193d9f57ce3f0800000000000000
+      internalID: -870190912132517784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_7
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 354
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78de81be0b9543b0800000000000000
+      internalID: -5528842480116639620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_8
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 354
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307f714ea53c57a40800000000000000
+      internalID: 5365409326223062787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_9
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 354
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1062b6d64fd217530800000000000000
+      internalID: 3850909684209493505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_10
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 354
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ab710b872ca6720800000000000000
+      internalID: 2840296338616728117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_11
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 354
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94a52dd9ade1d440800000000000000
+      internalID: 4959005978527114398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_12
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 354
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec3c232775d34910800000000000000
+      internalID: 1820533382055738607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_13
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 354
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a624a1070e5c418d0800000000000000
+      internalID: -2876456694238789014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_14
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 274
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eda4b38fce8d2b0800000000000000
+      internalID: -5559433189098070430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_15
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 274
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9b4c3f80aa2a590800000000000000
+      internalID: -7664376660404946486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_16
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 274
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e17b89293118f280800000000000000
+      internalID: -9009432117346864664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_17
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 274
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7812057edc279590800000000000000
+      internalID: -7667610506617546626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_18
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 274
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163443dad31b2f710800000000000000
+      internalID: 1725636485693326177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_19
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 274
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becd5d89ed04581b0800000000000000
+      internalID: -5655042432302719765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_20
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 274
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a421abf38eb77f00800000000000000
+      internalID: 1114568906869122210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_21
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 274
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dbe71018220fdb0800000000000000
+      internalID: -4760266868659405468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_22
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 274
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2110420e2323980800000000000000
+      internalID: -8560724003419778331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_23
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 274
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63141f45e2fd58ea0800000000000000
+      internalID: -5871041149120986826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_24
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 274
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18537d66c2ee0dea0800000000000000
+      internalID: -5849914041482922623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_25
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 274
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883b82355cc195ac0800000000000000
+      internalID: -3866027171291548792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_26
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 274
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274cf77afe55b3e00800000000000000
+      internalID: 1025507827952632946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_27
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 274
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572dd9ffd8e32b0a0800000000000000
+      internalID: -6867357702186741131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_28
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 194
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8085533c6ff2940800000000000000
+      internalID: 5273705006948157647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_29
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 194
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc595767f78c9b90800000000000000
+      internalID: -7233757404803277578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 194
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a008202f324989d0800000000000000
+      internalID: -2771611256779964249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_31
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 194
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d0ec02a55007080800000000000000
+      internalID: -9191840954807612144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_32
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 194
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27acce6f585a73b0800000000000000
+      internalID: -5513997626857707731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_33
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 194
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4107ad40354efb7a0800000000000000
+      internalID: -6359113103609008108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_34
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 194
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185465c7e79dd8cf0800000000000000
+      internalID: -248303267160373887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_35
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 194
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c25f9268f2455230800000000000000
+      internalID: 3626878709490733767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_36
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 194
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999fd5f3f1243fba0800000000000000
+      internalID: -6056424371908642407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_37
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 194
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fe47d52a92893e0800000000000000
+      internalID: -2046840253310505083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_38
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 194
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ca9d7595555be10800000000000000
+      internalID: 2212768634136800394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_39
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 194
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c18bf7803b0b1290800000000000000
+      internalID: -7918723216733142584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_40
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 194
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5034900739a471530800000000000000
+      internalID: 3825608405574828805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_41
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 194
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40abd2d504d98ba60800000000000000
+      internalID: 7690069263501867524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_42
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 114
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a863cdcaea9838f0800000000000000
+      internalID: -560527820342466394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_43
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 114
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d6d7f4968a10b30800000000000000
+      internalID: 4251864693473111333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_44
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 114
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5074049f00449f890800000000000000
+      internalID: -7423827739771123963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_45
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 114
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4964181ab4b5f4b50800000000000000
+      internalID: 6579577961001862804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_46
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 114
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b7d4115298958a0800000000000000
+      internalID: -6315866210113324162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_47
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 114
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d972e8e0df5da1310800000000000000
+      internalID: 1376647918962747293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_48
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 114
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a17b15917ec32de0800000000000000
+      internalID: -1359015675307527767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_49
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 114
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e76a7e4a0e5743a0800000000000000
+      internalID: -6681268123821512727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_50
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 114
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519050c30184d9080800000000000000
+      internalID: -9179101230947563243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_51
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 114
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fdb3de729f7f360800000000000000
+      internalID: 7203500078881562527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_52
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 114
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e9161bde2bfc920800000000000000
+      internalID: 3012823409687109176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_53
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 114
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d21625a72bd1e700800000000000000
+      internalID: 567975991346336471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_54
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 114
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9924176f9d15d1580800000000000000
+      internalID: -8854831295756156263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_55
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 114
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e68528621a3410f0800000000000000
+      internalID: -1147228154341521695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_56
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 34
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be971792b4620fd30800000000000000
+      internalID: 4463109334983866859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_57
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 34
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6164e05f251fe18c0800000000000000
+      internalID: -4026515678221679082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_58
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 34
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de4e8b3ac50cd1c0800000000000000
+      internalID: -4477697563372400936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_59
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 34
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7af820c29a82470800000000000000
+      internalID: 8370125913954691056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_60
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 34
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e24e9588c2898770800000000000000
+      internalID: 8613559560069595881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_61
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 34
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf42b5d1e2c9e7c0800000000000000
+      internalID: -4041484915379646550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_62
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 34
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b6ecc8b2214e470800000000000000
+      internalID: 8422877181344901976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_63
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 34
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f81437fd56665e50800000000000000
+      internalID: 6797733241327720688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_64
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 34
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2744c7fe006696640800000000000000
+      internalID: 5073698609413506162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_65
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 34
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc42967de13631870800000000000000
+      internalID: 8652368293223015631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_66
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 34
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f964874a8a34f9530800000000000000
+      internalID: 3863881396900087455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_67
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 34
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5512d93cb9c61ab0800000000000000
+      internalID: -5037617322906217121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_68
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 34
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce130eb3aefea02a0800000000000000
+      internalID: -6770335300492185108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredStonesCharacters_69
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 34
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd8737d0c8494110800000000000000
+      internalID: 1245606765026315734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2148 @@
+fileFormatVersion: 2
+guid: 631f7659b269e194fbefb095b540b424
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4246812158202113036
+    second: FatesCharacters_0
+  - first:
+      213: 4255141646059648713
+    second: FatesCharacters_1
+  - first:
+      213: 9138446038499299549
+    second: FatesCharacters_2
+  - first:
+      213: 2357037439391990377
+    second: FatesCharacters_3
+  - first:
+      213: 6549484139371797440
+    second: FatesCharacters_4
+  - first:
+      213: -4933454981628040274
+    second: FatesCharacters_5
+  - first:
+      213: 301525186329373431
+    second: FatesCharacters_6
+  - first:
+      213: 1829433924220725452
+    second: FatesCharacters_7
+  - first:
+      213: 1609458974875950606
+    second: FatesCharacters_8
+  - first:
+      213: -3577758117177267917
+    second: FatesCharacters_9
+  - first:
+      213: -2231006298676554506
+    second: FatesCharacters_10
+  - first:
+      213: 3452933208434832209
+    second: FatesCharacters_11
+  - first:
+      213: 7743946775055082491
+    second: FatesCharacters_12
+  - first:
+      213: -6841475603118505363
+    second: FatesCharacters_13
+  - first:
+      213: -8979239406786323187
+    second: FatesCharacters_14
+  - first:
+      213: 3770121080258033941
+    second: FatesCharacters_15
+  - first:
+      213: -3924429044650243804
+    second: FatesCharacters_16
+  - first:
+      213: -2737042814321628288
+    second: FatesCharacters_17
+  - first:
+      213: -1485866458628140044
+    second: FatesCharacters_18
+  - first:
+      213: -1044702586124319034
+    second: FatesCharacters_19
+  - first:
+      213: -5961698088740729533
+    second: FatesCharacters_20
+  - first:
+      213: -606528330395819244
+    second: FatesCharacters_21
+  - first:
+      213: -7372754206872769358
+    second: FatesCharacters_22
+  - first:
+      213: 2093556246353761352
+    second: FatesCharacters_23
+  - first:
+      213: -3313555030116316747
+    second: FatesCharacters_24
+  - first:
+      213: -919998733906881210
+    second: FatesCharacters_25
+  - first:
+      213: -728480866587919459
+    second: FatesCharacters_26
+  - first:
+      213: -777480140444700631
+    second: FatesCharacters_27
+  - first:
+      213: -390811532733889613
+    second: FatesCharacters_28
+  - first:
+      213: -2404110542211564883
+    second: FatesCharacters_29
+  - first:
+      213: -7385397360327380166
+    second: FatesCharacters_30
+  - first:
+      213: -600923034671388630
+    second: FatesCharacters_31
+  - first:
+      213: 5609429584964471672
+    second: FatesCharacters_32
+  - first:
+      213: -1451875810379141662
+    second: FatesCharacters_33
+  - first:
+      213: 1941483749774039951
+    second: FatesCharacters_34
+  - first:
+      213: 3519083574346162898
+    second: FatesCharacters_35
+  - first:
+      213: 3935249876829517597
+    second: FatesCharacters_36
+  - first:
+      213: -198324869952155588
+    second: FatesCharacters_37
+  - first:
+      213: 3946329111723725971
+    second: FatesCharacters_38
+  - first:
+      213: 3383493237639911838
+    second: FatesCharacters_39
+  - first:
+      213: 5100489734501046179
+    second: FatesCharacters_40
+  - first:
+      213: 1623802373165863812
+    second: FatesCharacters_41
+  - first:
+      213: 5202794220205617414
+    second: FatesCharacters_42
+  - first:
+      213: -7502934494441767318
+    second: FatesCharacters_43
+  - first:
+      213: -9020107333755458917
+    second: FatesCharacters_44
+  - first:
+      213: -1487356422946823892
+    second: FatesCharacters_45
+  - first:
+      213: 4137445254210918534
+    second: FatesCharacters_46
+  - first:
+      213: -2293407348533485030
+    second: FatesCharacters_47
+  - first:
+      213: 2462506450601998750
+    second: FatesCharacters_48
+  - first:
+      213: -7611614202145055671
+    second: FatesCharacters_49
+  - first:
+      213: 3128876147060127651
+    second: FatesCharacters_50
+  - first:
+      213: 7658283109494260703
+    second: FatesCharacters_51
+  - first:
+      213: 7837530233888399725
+    second: FatesCharacters_52
+  - first:
+      213: 63781179138753287
+    second: FatesCharacters_53
+  - first:
+      213: -8776582431373333838
+    second: FatesCharacters_54
+  - first:
+      213: -5082178232746507159
+    second: FatesCharacters_55
+  - first:
+      213: 7003639866589539242
+    second: FatesCharacters_56
+  - first:
+      213: -4557803731156068246
+    second: FatesCharacters_57
+  - first:
+      213: -8787970873269745410
+    second: FatesCharacters_58
+  - first:
+      213: 7349824507289171001
+    second: FatesCharacters_59
+  - first:
+      213: 2078245924421029167
+    second: FatesCharacters_60
+  - first:
+      213: 6205827628360057468
+    second: FatesCharacters_61
+  - first:
+      213: -8474205053280553954
+    second: FatesCharacters_62
+  - first:
+      213: -2524233858390932988
+    second: FatesCharacters_63
+  - first:
+      213: 987561588471343968
+    second: FatesCharacters_64
+  - first:
+      213: 9103858322712227841
+    second: FatesCharacters_65
+  - first:
+      213: -4520651986850830678
+    second: FatesCharacters_66
+  - first:
+      213: 1692053488160911793
+    second: FatesCharacters_67
+  - first:
+      213: -7363469743936395415
+    second: FatesCharacters_68
+  - first:
+      213: -6760039742864550381
+    second: FatesCharacters_69
+  - first:
+      213: -4404713109780983990
+    second: FatesCharacters_70
+  - first:
+      213: 6929388935532554573
+    second: FatesCharacters_71
+  - first:
+      213: -4389411872981081639
+    second: FatesCharacters_72
+  - first:
+      213: 3895085535193985429
+    second: FatesCharacters_73
+  - first:
+      213: 8906763464472475183
+    second: FatesCharacters_74
+  - first:
+      213: 3684921415854088522
+    second: FatesCharacters_75
+  - first:
+      213: -4326788525388599528
+    second: FatesCharacters_76
+  - first:
+      213: -7590989093702212252
+    second: FatesCharacters_77
+  - first:
+      213: 7125935055245144537
+    second: FatesCharacters_78
+  - first:
+      213: -2510753883619609787
+    second: FatesCharacters_79
+  - first:
+      213: -2230829382778463878
+    second: FatesCharacters_80
+  - first:
+      213: 8632725078082270499
+    second: FatesCharacters_81
+  - first:
+      213: 1663639994856346804
+    second: FatesCharacters_82
+  - first:
+      213: -8782917244017192957
+    second: FatesCharacters_83
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FatesCharacters_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 426
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f39d8ab7da4015c0800000000000000
+      internalID: -4246812158202113036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 426
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c63b5a48cc4d0b30800000000000000
+      internalID: 4255141646059648713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 426
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd093d3214842de70800000000000000
+      internalID: 9138446038499299549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 426
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96281412011e5b020800000000000000
+      internalID: 2357037439391990377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 426
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb9f45cf1174ea50800000000000000
+      internalID: 6549484139371797440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_5
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 426
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabeda035d8d88bb0800000000000000
+      internalID: -4933454981628040274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_6
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 426
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faeef53f8b3f2400800000000000000
+      internalID: 301525186329373431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_7
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 426
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8a9391674736910800000000000000
+      internalID: 1829433924220725452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_8
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 426
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e9b0e0962f55610800000000000000
+      internalID: 1609458974875950606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_9
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 426
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339e06db2ff395ec0800000000000000
+      internalID: -3577758117177267917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_10
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 426
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f499bb779fd901e0800000000000000
+      internalID: -2231006298676554506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_11
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 426
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15378e965784bef20800000000000000
+      internalID: 3452933208434832209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_12
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 426
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3a0be0096087b60800000000000000
+      internalID: 7743946775055082491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_13
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 426
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62ce98cf223e01a0800000000000000
+      internalID: -6841475603118505363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 346
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ddf456555536380800000000000000
+      internalID: -8979239406786323187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 346
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519fdf4c529225430800000000000000
+      internalID: 3770121080258033941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 346
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429856f8390a989c0800000000000000
+      internalID: -3924429044650243804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_17
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 346
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08be255df02140ad0800000000000000
+      internalID: -2737042814321628288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_18
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 346
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f35dcd0454216be0800000000000000
+      internalID: -1485866458628140044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_19
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 346
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6c02278887081f0800000000000000
+      internalID: -1044702586124319034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_20
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 346
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dcb7abc2bc34da0800000000000000
+      internalID: -5961698088740729533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_21
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 346
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413eb8072bd2597f0800000000000000
+      internalID: -606528330395819244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_22
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 346
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bce4138c17bea990800000000000000
+      internalID: -7372754206872769358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_23
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 346
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844573d505ecd0d10800000000000000
+      internalID: 2093556246353761352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_24
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 346
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9453e8143e302d0800000000000000
+      internalID: -3313555030116316747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_25
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 346
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645dbaf96028b33f0800000000000000
+      internalID: -919998733906881210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_26
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 346
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bbb51f28ae3e5f0800000000000000
+      internalID: -728480866587919459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_27
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 346
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9207fd87ee5d535f0800000000000000
+      internalID: -777480140444700631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 266
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b345494bfe839af0800000000000000
+      internalID: -390811532733889613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 266
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa35ba0332e2aed0800000000000000
+      internalID: -2404110542211564883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 266
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a333494fa3cc18990800000000000000
+      internalID: -7385397360327380166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_31
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 266
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28ef0d0fa719a7f0800000000000000
+      internalID: -600923034671388630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_32
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 266
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bcf5ccc72b8dd40800000000000000
+      internalID: 5609429584964471672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_33
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 266
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed6e5094a6e9dbe0800000000000000
+      internalID: -1451875810379141662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_34
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 266
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b997a1f2981fa10800000000000000
+      internalID: 1941483749774039951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_35
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 266
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2a0dfaddb46d030800000000000000
+      internalID: 3519083574346162898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_36
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 266
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17b2d2c9e0dc9630800000000000000
+      internalID: 3935249876829517597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_37
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 266
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c305060e4986f3df0800000000000000
+      internalID: -198324869952155588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_38
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 266
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39453172b6d24c630800000000000000
+      internalID: 3946329111723725971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_39
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 266
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9996715c2594fe20800000000000000
+      internalID: 3383493237639911838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_40
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 266
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a71675d36498c640800000000000000
+      internalID: 5100489734501046179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_41
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 266
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483dcf5b7a7e88610800000000000000
+      internalID: 1623802373165863812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 186
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601bfc617c9043840800000000000000
+      internalID: 5202794220205617414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_43
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 186
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ef5cd54d830e790800000000000000
+      internalID: -7502934494441767318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_44
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 186
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a2c97ab2422d280800000000000000
+      internalID: -9020107333755458917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_45
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 186
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21ebd3b639db5be0800000000000000
+      internalID: -1487356422946823892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_46
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 186
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6881ede99882b6930800000000000000
+      internalID: 4137445254210918534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_47
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 186
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a122461ea2e2c20e0800000000000000
+      internalID: -2293407348533485030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_48
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 186
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e997d35e1949c2220800000000000000
+      internalID: 2462506450601998750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_49
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 186
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c53d1163d1e5690800000000000000
+      internalID: -7611614202145055671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_50
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 186
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a736bb37400c6b20800000000000000
+      internalID: 3128876147060127651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_51
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 186
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd387caa9efa74a60800000000000000
+      internalID: 7658283109494260703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_52
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 186
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d616d43093084cc60800000000000000
+      internalID: 7837530233888399725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_53
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 186
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703cbedf4a892e000800000000000000
+      internalID: 63781179138753287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_54
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 186
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baee0c67c0533680800000000000000
+      internalID: -8776582431373333838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_55
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 186
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9640ce7e2d97879b0800000000000000
+      internalID: -5082178232746507159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 106
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab65de0a5de13160800000000000000
+      internalID: 7003639866589539242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_57
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 106
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a681e70a7ad6fb0c0800000000000000
+      internalID: -4557803731156068246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_58
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 106
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8074a2d0bda0680800000000000000
+      internalID: -8787970873269745410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_59
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 106
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9347e66c272dff560800000000000000
+      internalID: 7349824507289171001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_60
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 106
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dc40148a967dc10800000000000000
+      internalID: 2078245924421029167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_61
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 106
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72c4bd19578f1650800000000000000
+      internalID: 6205827628360057468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_62
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 106
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14746df663956a80800000000000000
+      internalID: -8474205053280553954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_63
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 106
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40248940eae18fcd0800000000000000
+      internalID: -2524233858390932988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_64
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 106
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ba7aa480684bd00800000000000000
+      internalID: 987561588471343968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_65
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 106
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100feb209e6675e70800000000000000
+      internalID: 9103858322712227841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_66
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 106
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6a79a28fa6341c0800000000000000
+      internalID: -4520651986850830678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_67
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 106
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1bacebea16b7710800000000000000
+      internalID: 1692053488160911793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_68
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 106
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967a55ef743bfc990800000000000000
+      internalID: -7363469743936395415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_69
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 106
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316190b8ba38f22a0800000000000000
+      internalID: -6760039742864550381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 26
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f8ff983c05fd2c0800000000000000
+      internalID: -4404713109780983990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_71
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 26
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49a0fcf5822a2060800000000000000
+      internalID: 6929388935532554573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_72
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 26
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1a41a582da513c0800000000000000
+      internalID: -4389411872981081639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_73
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 26
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591fffe38af1e0630800000000000000
+      internalID: 3895085535193985429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_74
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 26
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f263f4e4e2e2b9b70800000000000000
+      internalID: 8906763464472475183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_75
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 26
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4166311188732330800000000000000
+      internalID: 3684921415854088522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_76
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 26
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fe9fda2c824f3c0800000000000000
+      internalID: -4326788525388599528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_77
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 26
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465e30853a367a690800000000000000
+      internalID: -7590989093702212252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_78
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 26
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1f36c8d2864e260800000000000000
+      internalID: 7125935055245144537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_79
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 26
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543bb6835a2082dd0800000000000000
+      internalID: -2510753883619609787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_80
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 26
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a795cfcee708a01e0800000000000000
+      internalID: -2230829382778463878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_81
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 26
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32533ba68b99dc770800000000000000
+      internalID: 8632725078082270499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_82
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 26
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b49b8fc2cf661710800000000000000
+      internalID: 1663639994856346804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatesCharacters_83
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 26
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300d3baec4fcc1680800000000000000
+      internalID: -8782917244017192957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
