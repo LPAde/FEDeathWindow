@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6540669047298665016}
   - component: {fileID: 5024161528835286397}
   m_Layer: 0
-  m_Name: Sin
+  m_Name: Shin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -43,5 +43,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66bc456c83889f04595bddb411de2240, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  unitName: Sin
+  unitName: Shin
   sprite: {fileID: 7066288137044486346, guid: 6214eda88afc8774fb216089d871d552, type: 3}
