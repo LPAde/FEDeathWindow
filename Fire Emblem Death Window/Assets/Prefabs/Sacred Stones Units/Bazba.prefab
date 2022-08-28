@@ -43,5 +43,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66bc456c83889f04595bddb411de2240, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  unitName: Bazba
+  unitName:
+  - Bazba
   sprite: {fileID: 6100352398799937431, guid: aa21d6360105bdf4f8c1d7ca14e9935e, type: 3}

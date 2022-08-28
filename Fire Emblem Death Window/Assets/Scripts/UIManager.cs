@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -30,7 +29,7 @@ public class UIManager : MonoBehaviour
     public Button[] stageFourButtons;
 
 
-    private bool addedUnit;
+    private bool _addedUnit;
     
     private void Start()
     {
@@ -72,17 +71,23 @@ public class UIManager : MonoBehaviour
         // Adding the Unit.
         else
         {
-            foreach (var t in allUnits.Where(t => t.unitName.ToLower() == newUnit))
-            { 
-                // Adds Unit and ends the process. 
-                deadUnits.Add(t);
-                inputField.text = "";
-                addedUnit = true;
-                break; 
+            foreach (var t in allUnits)
+            {
+                foreach (var uName in t.unitName)
+                {
+                    if (uName.ToLower() == newUnit)
+                    {
+                        // Adds Unit and ends the process. 
+                        deadUnits.Add(t);
+                        inputField.text = "";
+                        _addedUnit = true;
+                        break;
+                    }
+                }
             }
         }
 
-        if (deadUnits.Count == stageTwoButtons.Length + 1 && addedUnit)
+        if (deadUnits.Count == stageTwoButtons.Length + 1 && _addedUnit)
         {
             Screen.SetResolution(1200, 500, false);
             var transform1 = transform;
@@ -94,7 +99,7 @@ public class UIManager : MonoBehaviour
         UpdateImages();
 
         // Tries translating the string into a color and changes the background.
-        if (!addedUnit)
+        if (!_addedUnit)
         {
             if (!ColorUtility.TryParseHtmlString(inputField.text, out var newColor)) 
                 return;
@@ -105,7 +110,7 @@ public class UIManager : MonoBehaviour
         }
         else
         {
-            addedUnit = false;
+            _addedUnit = false;
         }
     }
     
@@ -119,12 +124,19 @@ public class UIManager : MonoBehaviour
         if(newUnit == "")
             return;
         
-        foreach (var t in allUnits.Where(t => t.unitName.ToLower() == newUnit))
+        foreach (var t in allUnits)
         {
-            // Adds Unit and ends the process. 
-            deadUnits.Add(t);
-            inputField.text = ""; 
-            break;
+            foreach (var uName in t.unitName)
+            {
+                if (uName.ToLower() == newUnit)
+                {
+                    // Adds Unit and ends the process. 
+                    deadUnits.Add(t);
+                    inputField.text = "";
+                    _addedUnit = true;
+                    break;
+                }
+            }
         }
 
         if (deadUnits.Count == stageTwoButtons.Length + 1)
@@ -268,26 +280,26 @@ public class UIManager : MonoBehaviour
         
         for (int i = 0; i < deadUnits.Count; i++)
         {
-            actualDeadUnits += deadUnits[i].unitName + "-";
+            actualDeadUnits += deadUnits[i].unitName[0] + "-";
         }
         SaveSystem.SetString(gameName, actualDeadUnits);
 
         Color saveColor = Camera.main.backgroundColor;
-        string colorRGBA = saveColor.r + "-" + saveColor.g + "-" + saveColor.b + "-" + saveColor.a;
-        SaveSystem.SetString(string.Concat(gameName, "BackgroundColor"), colorRGBA);
+        string colorRgba = saveColor.r + "-" + saveColor.g + "-" + saveColor.b + "-" + saveColor.a;
+        SaveSystem.SetString(string.Concat(gameName, "BackgroundColor"), colorRgba);
     }
 
     private void Load()
     {
         string backgroundColor = SaveSystem.GetString(string.Concat(gameName, "BackgroundColor"));
 
-        var aRGBA = backgroundColor.Split('-');
+        var aRgba = backgroundColor.Split('-');
         float[] rgba = new float[4];
         bool hasColor = true;
         
         for (int i = 0; i < rgba.Length; i++)
         {
-            if (!float.TryParse(aRGBA[i], out rgba[i]))
+            if (!float.TryParse(aRgba[i], out rgba[i]))
             {
                 hasColor = false;
                 break;
@@ -298,15 +310,15 @@ public class UIManager : MonoBehaviour
             Camera.main.backgroundColor = new Color(rgba[0], rgba[1], rgba[2], rgba[3]);
         
         string actualDeadUnits = SaveSystem.GetString(gameName);
-        var aDU = actualDeadUnits.Split('-');
+        var aDu = actualDeadUnits.Split('-');
 
-        for (int i = 0; i < aDU.Length; i++)
+        for (int i = 0; i < aDu.Length; i++)
         {
             for (int j = 0; j < allUnits.Count; j++)
             {
-                if (aDU[i] == allUnits[j].unitName)
+                if (aDu[i] == allUnits[j].unitName[0])
                 {
-                    OnTryAddUnit(aDU[i]);
+                    OnTryAddUnit(aDu[i]);
                     break;
                 }
             }

@@ -43,5 +43,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66bc456c83889f04595bddb411de2240, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  unitName: Bartre
+  unitName:
+  - Bartre
   sprite: {fileID: -5072081110718990763, guid: 6214eda88afc8774fb216089d871d552, type: 3}

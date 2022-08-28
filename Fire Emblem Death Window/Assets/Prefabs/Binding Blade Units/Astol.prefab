@@ -43,5 +43,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66bc456c83889f04595bddb411de2240, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  unitName: Astol
+  unitName:
+  - Astol
+  - Astolfo
+  - Asthor
+  - Asthore
   sprite: {fileID: -5623911709106282873, guid: 6214eda88afc8774fb216089d871d552, type: 3}
