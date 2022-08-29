@@ -43,5 +43,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66bc456c83889f04595bddb411de2240, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  unitName: Catria
+  unitName:
+  - Catria
+  - Katua
   sprite: {fileID: -2128933677213776183, guid: 122285ed98813b24485ba2e53e352115, type: 3}
