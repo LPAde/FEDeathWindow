@@ -43,5 +43,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66bc456c83889f04595bddb411de2240, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  unitName: arthur
+  unitName:
+  - Arthur
+  - Harold
   sprite: {fileID: -4246812158202113036, guid: 631f7659b269e194fbefb095b540b424, type: 3}

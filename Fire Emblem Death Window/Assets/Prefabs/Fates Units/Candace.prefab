@@ -43,5 +43,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66bc456c83889f04595bddb411de2240, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  unitName: Candace
+  unitName:
+  - Candace
+  - Doraje
   sprite: {fileID: -8015678802885687590, guid: d80a378f0f6b00a489ff9f9fa3008d26, type: 3}
