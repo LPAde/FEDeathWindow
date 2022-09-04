@@ -43,5 +43,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66bc456c83889f04595bddb411de2240, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  unitName: "Pallard\xF3"
+  unitName:
+  - "Pallard\xF3"
+  - Pallardo
   sprite: {fileID: -7095401899088193262, guid: e42fc9a23e9426e45aaa16308005e168, type: 3}

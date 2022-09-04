@@ -43,5 +43,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66bc456c83889f04595bddb411de2240, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  unitName: BylethM
+  unitName:
+  - Byleth M
+  - BylethM
+  - Byleth (M)
+  - Byleth
   sprite: {fileID: 2341799277554381161, guid: e42fc9a23e9426e45aaa16308005e168, type: 3}

@@ -43,5 +43,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66bc456c83889f04595bddb411de2240, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  unitName: Nader
+  unitName:
+  - Nader
   sprite: {fileID: 3365013019114863837, guid: e42fc9a23e9426e45aaa16308005e168, type: 3}
