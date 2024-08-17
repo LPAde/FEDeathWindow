@@ -1,0 +1,1476 @@
+fileFormatVersion: 2
+guid: 5d97691063949d04cb6ef0f96b035280
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4332214012618247164
+    second: FE5Units_0
+  - first:
+      213: -977804866625095278
+    second: FE5Units_1
+  - first:
+      213: -8856609925299271100
+    second: FE5Units_2
+  - first:
+      213: 9086265650870975935
+    second: FE5Units_3
+  - first:
+      213: -6286358040416873486
+    second: FE5Units_4
+  - first:
+      213: 1217905842002262001
+    second: FE5Units_5
+  - first:
+      213: 5326649127190923486
+    second: FE5Units_6
+  - first:
+      213: 8665162575744095330
+    second: FE5Units_7
+  - first:
+      213: -880725065295062751
+    second: FE5Units_8
+  - first:
+      213: 8962694800478780523
+    second: FE5Units_9
+  - first:
+      213: 6758009960700643920
+    second: FE5Units_10
+  - first:
+      213: 8160040583577699699
+    second: FE5Units_11
+  - first:
+      213: 4930038414248899372
+    second: FE5Units_12
+  - first:
+      213: 524584806330275451
+    second: FE5Units_13
+  - first:
+      213: -7642566708739260088
+    second: FE5Units_14
+  - first:
+      213: 7785989608591551377
+    second: FE5Units_15
+  - first:
+      213: 5426967106003329469
+    second: FE5Units_16
+  - first:
+      213: 3897084692228639047
+    second: FE5Units_17
+  - first:
+      213: 340318706021904438
+    second: FE5Units_18
+  - first:
+      213: -6646837852312147232
+    second: FE5Units_19
+  - first:
+      213: -2613961801277160299
+    second: FE5Units_20
+  - first:
+      213: 9194408223973455115
+    second: FE5Units_21
+  - first:
+      213: -3348767452448864675
+    second: FE5Units_22
+  - first:
+      213: 8750331170759941372
+    second: FE5Units_23
+  - first:
+      213: -1583849654172304570
+    second: FE5Units_24
+  - first:
+      213: -1884769718428430710
+    second: FE5Units_25
+  - first:
+      213: -6480644764099215550
+    second: FE5Units_26
+  - first:
+      213: 2221274140494661519
+    second: FE5Units_27
+  - first:
+      213: 5101585393616077799
+    second: FE5Units_28
+  - first:
+      213: -1367901278296278685
+    second: FE5Units_29
+  - first:
+      213: -3892076450266952555
+    second: FE5Units_30
+  - first:
+      213: -6750945830714029715
+    second: FE5Units_31
+  - first:
+      213: -7630282100471009645
+    second: FE5Units_32
+  - first:
+      213: -3900019355581624521
+    second: FE5Units_33
+  - first:
+      213: -3163026192094873939
+    second: FE5Units_34
+  - first:
+      213: 3236580142591660709
+    second: FE5Units_35
+  - first:
+      213: -6695201816419299558
+    second: FE5Units_36
+  - first:
+      213: -1174766884125944496
+    second: FE5Units_37
+  - first:
+      213: 7337277876141789255
+    second: FE5Units_38
+  - first:
+      213: 3709612774249090674
+    second: FE5Units_39
+  - first:
+      213: 305367519600751514
+    second: FE5Units_40
+  - first:
+      213: -5264838803364564123
+    second: FE5Units_41
+  - first:
+      213: 1278387237637214504
+    second: FE5Units_42
+  - first:
+      213: 4873805795370928722
+    second: FE5Units_43
+  - first:
+      213: 8621774858152383835
+    second: FE5Units_44
+  - first:
+      213: -875590704749162591
+    second: FE5Units_45
+  - first:
+      213: 919173153884098603
+    second: FE5Units_46
+  - first:
+      213: -8119155494806838377
+    second: FE5Units_47
+  - first:
+      213: 6963590306040554629
+    second: FE5Units_48
+  - first:
+      213: -1381117028409869470
+    second: FE5Units_49
+  - first:
+      213: 367550425802943267
+    second: FE5Units_50
+  - first:
+      213: 118577890768101226
+    second: FE5Units_51
+  - first:
+      213: -391443566875335323
+    second: FE5Units_52
+  - first:
+      213: -4457340324115424760
+    second: FE5Units_53
+  - first:
+      213: 5684436819909731117
+    second: FE5Units_54
+  - first:
+      213: 7011937839561644094
+    second: FE5Units_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FE5Units_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 259
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb841101bd1f1c30800000000000000
+      internalID: 4332214012618247164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 259
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299b92987a32e62f0800000000000000
+      internalID: -977804866625095278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 259
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a86508230071580800000000000000
+      internalID: -8856609925299271100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 259
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd7ff6e776e81e70800000000000000
+      internalID: 9086265650870975935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 259
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f318063bae52c8a0800000000000000
+      internalID: -6286358040416873486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 259
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7fa6a19eed6e010800000000000000
+      internalID: 1217905842002262001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 259
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed80c5dc82f0ce940800000000000000
+      internalID: 5326649127190923486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_7
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 259
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2645c30e377d04870800000000000000
+      internalID: 8665162575744095330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_8
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 259
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1291e4a283907c3f0800000000000000
+      internalID: -880725065295062751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_9
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 259
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c37c44f63e16c70800000000000000
+      internalID: 8962694800478780523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_10
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 259
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a0d18f04649cd50800000000000000
+      internalID: 6758009960700643920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_11
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 259
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3758be05da94e3170800000000000000
+      internalID: 8160040583577699699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_12
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 259
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23f55a31d30b6440800000000000000
+      internalID: 4930038414248899372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_13
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 259
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7612eb1a13b74700800000000000000
+      internalID: 524584806330275451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 179
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841ce59021620f590800000000000000
+      internalID: -7642566708739260088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 179
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b6bfc0c446d0c60800000000000000
+      internalID: 7785989608591551377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 179
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1ee0164d5705b40800000000000000
+      internalID: 5426967106003329469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 179
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74986e341e9351630800000000000000
+      internalID: 3897084692228639047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_18
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 179
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6303bde5f0e09b400800000000000000
+      internalID: 340318706021904438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_19
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 179
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea60559030b1c3a0800000000000000
+      internalID: -6646837852312147232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_20
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 179
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5944f62579759bbd0800000000000000
+      internalID: -2613961801277160299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_21
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 179
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b053eddc099199f70800000000000000
+      internalID: 9194408223973455115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_22
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 179
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5645699eb9c681d0800000000000000
+      internalID: -3348767452448864675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_23
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 179
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc9c2ca6db6f6970800000000000000
+      internalID: 8750331170759941372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_24
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 179
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b3f619129050ae0800000000000000
+      internalID: -1583849654172304570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_25
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 179
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e09a15de3f7d5e0800000000000000
+      internalID: -1884769718428430710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_26
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 179
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ffe584cef1016a0800000000000000
+      internalID: -6480644764099215550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_27
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 179
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8702fcdf0d83de10800000000000000
+      internalID: 2221274140494661519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 99
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3cec9d2e87cc640800000000000000
+      internalID: 5101585393616077799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_29
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 99
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369f85be80d340de0800000000000000
+      internalID: -1367901278296278685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_30
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 99
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ccc2fe6119cf9c0800000000000000
+      internalID: -3892076450266952555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 99
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69c266f882df42a0800000000000000
+      internalID: -6750945830714029715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_32
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 99
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e67694bdacb1690800000000000000
+      internalID: -7630282100471009645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_33
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 99
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fc86d2f0950e9c0800000000000000
+      internalID: -3900019355581624521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_34
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 99
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6bdeccf6caa14d0800000000000000
+      internalID: -3163026192094873939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_35
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 99
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a25246dd74aaec20800000000000000
+      internalID: 3236580142591660709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_36
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 99
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f07c0bb6dd513a0800000000000000
+      internalID: -6695201816419299558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_37
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 99
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055d7c93eb362bfe0800000000000000
+      internalID: -1174766884125944496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_38
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 99
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74093c19a5f33d560800000000000000
+      internalID: 7337277876141789255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_39
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 99
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e4e5fe9213b7330800000000000000
+      internalID: 3709612774249090674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_40
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 99
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93beb32422ec3400800000000000000
+      internalID: 305367519600751514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_41
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 99
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56333cda0098fe6b0800000000000000
+      internalID: -5264838803364564123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 19
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82152c06b6ebdb110800000000000000
+      internalID: 1278387237637214504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_43
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 19
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a03516c8c33a340800000000000000
+      internalID: 4873805795370928722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_44
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 19
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b551199ad82b6a770800000000000000
+      internalID: 8621774858152383835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_45
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 19
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afcac2a4e649d3f0800000000000000
+      internalID: -875590704749162591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_46
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 19
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20565c0d1f81cc00800000000000000
+      internalID: 919173153884098603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_47
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 19
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793a0e73817f25f80800000000000000
+      internalID: -8119155494806838377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_48
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 19
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584a6e81d74a3a060800000000000000
+      internalID: 6963590306040554629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_49
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 19
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bf260516945dce0800000000000000
+      internalID: -1381117028409869470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_50
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 19
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b27073a2dc91500800000000000000
+      internalID: 367550425802943267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_51
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 19
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f9271a6f545a100800000000000000
+      internalID: 118577890768101226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_52
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 19
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565a8ce5620519af0800000000000000
+      internalID: -391443566875335323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_53
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 19
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a531a57985422c0800000000000000
+      internalID: -4457340324115424760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_54
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 19
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23eed69b2d23ee40800000000000000
+      internalID: 5684436819909731117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FE5Units_55
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 19
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38113270586f4160800000000000000
+      internalID: 7011937839561644094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
